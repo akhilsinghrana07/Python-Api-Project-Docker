@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  flask-app:
+    image: akhilsinghrana729/akhilsinghrana_comp306_lab3:latest
+    ports:
+      - 3000:3000
+    restart: always
