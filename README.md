@@ -1,4 +1,4 @@
-# akhilsinghrana_comp306_lab3
+# Python Api Project Docker
 
 This is simple python api project in which i used flask to develope a webpage and used get method to return string "healthy".
 
